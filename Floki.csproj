@@ -3,7 +3,13 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <!-- <Nullable>enable</Nullable>ss -->
+    <PackageId>Floki</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Kamlesh Bambarde</Authors>
+    <Company>kamlesh.bambarde@outlook.com</Company>
+    <Description>Common components that are required for developing .NET Core Microservices using MediatR.</Description>
+    <RepositoryUrl>https://github.com/kamlesh-nb/floki</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
